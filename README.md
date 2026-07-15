@@ -6,5 +6,3 @@ pandas
 
 matplotlib
 
-
-js work
